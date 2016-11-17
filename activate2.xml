@@ -1,0 +1,4 @@
+<CiscoIPPhoneExecute>
+    <ExecuteItem URL="RTPMRx:239.0.0.2:20480"/>
+    <ExecuteItem URL="http://10.24.196.76/ptt/chan2.xml"/>
+</CiscoIPPhoneExecute>

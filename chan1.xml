@@ -1,0 +1,21 @@
+<CiscoIPPhoneText>
+    <Title>Channel</Title> 
+    <SoftKeyItem>
+        <Name>PTT</Name>
+        <Position>-1</Position>
+        <URL>RTPTx:Stop</URL>
+        <URLDown>RTPMTx:239.0.0.1:20480</URLDown>
+    </SoftKeyItem>    
+    <SoftKeyItem>
+        <Name>-Talk-</Name>
+        <Position>1</Position>
+        <URL>RTPTx:Stop</URL>
+        <URLDown>RTPMTx:239.0.0.1:20480</URLDown>
+    </SoftKeyItem>
+    <SoftKeyItem>
+        <Name>-OFF-</Name>
+        <Position>2</Position>
+        <URL>http://10.24.196.76/ptt/deactivate.xml</URL>
+    </SoftKeyItem>
+    <Text>--&gt; 1 &lt;--</Text>
+</CiscoIPPhoneText>

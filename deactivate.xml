@@ -1,0 +1,4 @@
+<CiscoIPPhoneExecute>
+    <ExecuteItem URL="RTPRx:Stop"/>
+    <ExecuteItem URL="http://10.24.196.76/ptt/ptt_main.xml"/>
+</CiscoIPPhoneExecute>

@@ -1,0 +1,15 @@
+<CiscoIPPhoneMenu>
+    <MenuItem>
+        <Name>Channel 1</Name>
+        <URL>http://10.24.196.76/ptt/activate1.xml</URL>
+    </MenuItem>
+    <MenuItem>
+        <Name>Channel 2</Name>
+        <URL>http://10.24.196.76/ptt/activate2.xml</URL>
+    </MenuItem>
+    <SoftKeyItem>
+        <Name>Exit</Name>
+        <URL>Init:Services</URL>
+        <Position>1</Position>
+    </SoftKeyItem>    
+</CiscoIPPhoneMenu>
