@@ -6,4 +6,4 @@
 
 ## Notes:
 * All URLs and multi-cast addresses are hard-coded, and will need to be updated to match the environment
-* Two channels are demonstrated, additional channels can be created by modifying ptt_main.xml and creating/modifying additional chanX.xml pages
+* Two channels are demonstrated, additional channels can be created by modifying ptt_main.xml and creating/modifying additional chanX.xml/activateX.xml pages
